@@ -50,7 +50,7 @@
     "db-migrate-mongodb": "1.5.0",
     "express": "4.17.1",
     "jwks-rsa": "1.6.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "mongoose": "5.7.7",
     "qs": "6.9.0",
     "stream": "0.0.2",
